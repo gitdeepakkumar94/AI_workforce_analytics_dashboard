@@ -1,0 +1,201 @@
+employee_id,grade,skill,location,hire_date,exit_date,employment_status,last_rating,monthly_cost
+EMP1000,G1,Business Analysis,Bangalore,2015-02-20,,Active,4.1,5525.6
+EMP1001,G6,Backend Development,Bangalore,2016-04-05,2019-05-09,Exited,4.9,4364.27
+EMP1002,G2,UI/UX Design,Remote,2015-09-06,,Active,3.6,6254.22
+EMP1003,G1,Data Engineering,Sydney,2021-08-26,,Active,3.0,6265.2
+EMP1004,G5,Frontend Development,Singapore,2019-05-25,,Active,4.2,8579.72
+EMP1005,G1,Backend Development,Berlin,2022-06-07,2023-04-05,Exited,2.4,5623.88
+EMP1006,G1,Data Science,Remote,2023-12-05,,Active,4.0,6401.95
+EMP1007,G6,Project Management,Singapore,2023-12-07,,Active,3.0,13007.05
+EMP1008,G3,Project Management,Toronto,2020-05-28,,Active,3.0,8357.83
+EMP1009,G2,Sales Engineering,London,2022-04-03,,Active,4.4,7369.44
+EMP1010,G5,Machine Learning,Toronto,2016-12-23,2024-06-18,Exited,2.3,6120.7
+EMP1011,G6,Data Science,Sydney,2025-04-30,2026-05-06,Exited,2.9,7361.35
+EMP1012,G1,QA/Testing,Singapore,2024-05-30,,Active,4.4,8891.44
+EMP1013,G5,Sales Engineering,London,2023-11-06,,Active,2.8,13604.2
+EMP1014,G2,Frontend Development,Berlin,2022-02-22,,Active,2.5,14891.58
+EMP1015,G1,QA/Testing,Toronto,2016-09-14,,Active,4.6,14796.06
+EMP1016,G1,QA/Testing,Bangalore,2020-07-01,2021-06-01,Exited,4.4,10668.88
+EMP1017,G3,QA/Testing,Remote,2020-07-31,,Active,3.0,4123.05
+EMP1018,G4,Backend Development,New York,2019-03-17,2022-11-13,Exited,2.4,10238.83
+EMP1019,G5,Frontend Development,Singapore,2021-11-19,,Active,4.8,13531.56
+EMP1020,G5,QA/Testing,Sydney,2022-09-24,,Active,2.7,6140.95
+EMP1021,G3,Sales Engineering,Remote,2021-11-22,,Active,3.0,8087.32
+EMP1022,G6,Frontend Development,Toronto,2020-11-10,,Active,4.1,10377.18
+EMP1023,G6,Data Science,Sydney,2016-11-11,,Active,2.6,6700.61
+EMP1024,G2,Business Analysis,Toronto,2024-11-23,,Active,3.6,6670.23
+EMP1025,G6,Data Engineering,New York,2023-09-26,,Active,3.4,13106.57
+EMP1026,G5,Frontend Development,Sydney,2018-01-27,,Active,4.4,8002.72
+EMP1027,G4,Business Analysis,Singapore,2019-07-02,,Active,2.7,7542.04
+EMP1028,G1,Frontend Development,London,2018-05-01,,Active,4.9,13732.98
+EMP1029,G4,QA/Testing,Toronto,2022-10-11,,Active,4.0,8595.57
+EMP1030,G2,Cloud Infrastructure,Remote,2015-10-06,,Active,4.5,14793.47
+EMP1031,G3,Cloud Infrastructure,Toronto,2018-02-09,,Active,4.7,6706.52
+EMP1032,G2,Frontend Development,Bangalore,2018-06-13,,Active,4.5,9950.2
+EMP1033,G6,DevOps,Singapore,2018-08-02,,Active,2.1,13968.81
+EMP1034,G6,QA/Testing,Toronto,2020-07-10,,Active,2.9,8264.07
+EMP1035,G5,Frontend Development,Sydney,2022-08-05,,Active,2.1,10276.32
+EMP1036,G1,Business Analysis,Berlin,2025-10-03,,Active,2.8,5187.38
+EMP1037,G3,Frontend Development,Remote,2021-02-28,,Active,4.3,8703.63
+EMP1038,G3,Project Management,New York,2023-08-04,,Active,4.8,6479.17
+EMP1039,G5,Backend Development,London,2024-08-29,,Active,2.1,12831.45
+EMP1040,G4,QA/Testing,New York,2019-12-08,,Active,4.7,13098.13
+EMP1041,G2,Backend Development,London,2023-02-26,,Active,3.4,7948.47
+EMP1042,G3,DevOps,Sydney,2025-07-02,2026-04-08,Exited,2.6,6409.31
+EMP1043,G1,Sales Engineering,Sydney,2015-08-26,,Active,3.4,8416.24
+EMP1044,G4,Frontend Development,Toronto,2024-02-27,2025-07-17,Exited,4.4,8989.43
+EMP1045,G6,Frontend Development,Bangalore,2016-07-16,2020-06-21,Exited,3.9,9151.5
+EMP1046,G3,Business Analysis,Berlin,2018-01-31,,Active,4.5,10576.01
+EMP1047,G3,Data Science,Bangalore,2024-03-15,,Active,4.0,13866.4
+EMP1048,G1,Data Science,Toronto,2024-02-12,,Active,2.8,12575.44
+EMP1049,G1,UI/UX Design,London,2019-11-05,,Active,3.0,13903.17
+EMP1050,G4,Project Management,Bangalore,2024-10-04,,Active,4.1,9305.74
+EMP1051,G5,Project Management,Berlin,2015-09-12,,Active,4.6,7388.19
+EMP1052,G1,Sales Engineering,Singapore,2015-08-31,,Active,3.7,10513.02
+EMP1053,G3,Backend Development,Toronto,2023-08-08,,Active,4.4,10539.05
+EMP1054,G5,Machine Learning,Toronto,2021-01-31,,Active,4.2,11108.1
+EMP1055,G6,Backend Development,Remote,2016-11-19,,Active,4.9,11931.52
+EMP1056,G4,QA/Testing,Bangalore,2023-01-22,,Active,2.5,9635.04
+EMP1057,G4,QA/Testing,Singapore,2022-08-26,2025-02-19,Exited,4.5,7696.19
+EMP1058,G6,Frontend Development,Bangalore,2020-08-09,,Active,3.4,7387.42
+EMP1059,G6,QA/Testing,Remote,2017-04-28,,Active,3.0,13434.66
+EMP1060,G6,DevOps,Toronto,2023-10-27,,Active,4.4,4715.61
+EMP1061,G3,DevOps,Bangalore,2015-03-19,,Active,2.7,8075.42
+EMP1062,G5,Data Engineering,Toronto,2019-08-28,,Active,3.2,5081.29
+EMP1063,G2,UI/UX Design,Toronto,2016-01-31,,Active,2.5,4400.91
+EMP1064,G4,Cloud Infrastructure,London,2015-11-01,2017-12-09,Exited,3.0,6743.63
+EMP1065,G3,UI/UX Design,Sydney,2024-10-03,2026-07-28,Exited,3.3,14920.03
+EMP1066,G3,Sales Engineering,New York,2022-04-08,,Active,3.9,6650.85
+EMP1067,G2,Sales Engineering,London,2017-05-28,2018-02-04,Exited,4.7,7088.88
+EMP1068,G2,Project Management,Remote,2017-02-09,,Active,2.5,9145.39
+EMP1069,G3,Machine Learning,Berlin,2019-02-06,,Active,4.0,14497.94
+EMP1070,G3,Sales Engineering,Sydney,2025-11-10,,Active,2.6,8565.0
+EMP1071,G1,QA/Testing,Berlin,2021-01-17,,Active,3.6,10527.4
+EMP1072,G4,Data Science,Remote,2024-04-17,,Active,3.5,9775.04
+EMP1073,G1,Frontend Development,New York,2021-03-14,,Active,4.9,14376.06
+EMP1074,G3,Data Science,Remote,2018-02-28,,Active,2.7,8899.76
+EMP1075,G2,Machine Learning,Remote,2017-09-27,,Active,4.9,5405.65
+EMP1076,G3,Project Management,New York,2022-05-16,2025-11-13,Exited,2.8,7014.2
+EMP1077,G1,Business Analysis,Sydney,2022-01-04,,Active,2.1,11389.95
+EMP1078,G1,UI/UX Design,Remote,2016-01-23,,Active,3.9,8228.23
+EMP1079,G1,Project Management,Berlin,2018-05-24,,Active,4.8,10667.23
+EMP1080,G2,Data Science,Bangalore,2019-03-07,,Active,2.8,4760.56
+EMP1081,G4,Data Engineering,Toronto,2022-07-09,,Active,3.6,6391.89
+EMP1082,G5,Business Analysis,New York,2016-02-22,,Active,2.1,10222.47
+EMP1083,G1,QA/Testing,London,2016-09-20,,Active,2.3,4816.56
+EMP1084,G4,Cloud Infrastructure,Berlin,2016-07-03,,Active,2.4,12443.97
+EMP1085,G2,Business Analysis,Remote,2024-02-29,2024-10-16,Exited,2.7,9177.35
+EMP1086,G5,UI/UX Design,New York,2022-09-14,,Active,4.4,11663.17
+EMP1087,G5,UI/UX Design,Singapore,2024-04-17,,Active,3.9,5629.53
+EMP1088,G5,DevOps,London,2020-02-05,,Active,4.1,8315.33
+EMP1089,G1,Cloud Infrastructure,Remote,2021-07-26,,Active,3.0,12741.09
+EMP1090,G4,UI/UX Design,Berlin,2022-06-02,2026-04-18,Exited,2.3,10165.98
+EMP1091,G1,Backend Development,Singapore,2016-09-08,,Active,2.3,5471.82
+EMP1092,G6,Project Management,Singapore,2023-09-19,,Active,4.1,7760.76
+EMP1093,G6,Cloud Infrastructure,Sydney,2024-03-17,,Active,3.1,12910.04
+EMP1094,G2,Project Management,Singapore,2020-11-06,,Active,2.3,10915.55
+EMP1095,G6,Machine Learning,Toronto,2019-10-02,2023-10-22,Exited,3.6,14332.77
+EMP1096,G5,QA/Testing,London,2022-05-13,,Active,4.6,4426.91
+EMP1097,G6,Sales Engineering,Berlin,2018-05-11,,Active,3.8,6760.27
+EMP1098,G5,DevOps,New York,2018-12-19,2024-05-03,Exited,3.9,13037.99
+EMP1099,G4,DevOps,Berlin,2021-04-27,,Active,2.2,13119.5
+EMP1100,G3,Business Analysis,New York,2018-06-13,,Active,4.2,8324.19
+EMP1101,G1,DevOps,Toronto,2022-11-12,,Active,2.7,8678.32
+EMP1102,G4,DevOps,Berlin,2025-03-18,,Active,4.2,13190.61
+EMP1103,G6,Data Engineering,Singapore,2016-03-09,2025-12-21,Exited,3.9,13867.28
+EMP1104,G4,DevOps,Remote,2019-04-24,,Active,4.0,9861.85
+EMP1105,G5,Machine Learning,Singapore,2022-08-29,,Active,3.3,7946.12
+EMP1106,G5,Cloud Infrastructure,Toronto,2022-08-24,,Active,4.5,13661.0
+EMP1107,G5,Sales Engineering,London,2023-03-19,,Active,4.5,8425.18
+EMP1108,G6,DevOps,Berlin,2020-09-22,,Active,3.9,12249.91
+EMP1109,G6,Machine Learning,Sydney,2022-03-13,,Active,3.9,12511.72
+EMP1110,G5,UI/UX Design,Toronto,2019-12-06,2022-04-15,Exited,2.6,4848.26
+EMP1111,G6,QA/Testing,Berlin,2024-03-12,,Active,4.7,6003.23
+EMP1112,G5,Business Analysis,London,2023-03-21,,Active,4.8,7564.49
+EMP1113,G6,QA/Testing,New York,2024-03-01,,Active,2.1,9431.99
+EMP1114,G3,QA/Testing,Bangalore,2025-11-29,,Active,3.1,6543.4
+EMP1115,G1,Business Analysis,Remote,2022-05-19,,Active,4.5,12382.45
+EMP1116,G6,Project Management,Toronto,2017-09-22,,Active,3.1,5568.83
+EMP1117,G3,Backend Development,Berlin,2018-05-17,,Active,3.6,9464.45
+EMP1118,G3,Sales Engineering,Toronto,2017-03-10,,Active,4.3,10612.65
+EMP1119,G5,Machine Learning,Toronto,2018-03-10,,Active,3.6,4572.75
+EMP1120,G1,DevOps,Bangalore,2018-01-20,,Active,2.6,12621.77
+EMP1121,G4,Sales Engineering,New York,2020-06-30,,Active,2.3,11843.8
+EMP1122,G4,Data Engineering,Sydney,2015-02-13,,Active,4.7,8146.13
+EMP1123,G5,Cloud Infrastructure,Toronto,2020-04-14,,Active,3.8,7937.38
+EMP1124,G6,Cloud Infrastructure,Bangalore,2023-09-06,,Active,5.0,11480.39
+EMP1125,G1,Business Analysis,Sydney,2017-09-09,2023-05-06,Exited,4.6,9852.92
+EMP1126,G3,Sales Engineering,New York,2021-05-06,,Active,3.5,11158.54
+EMP1127,G6,DevOps,Toronto,2015-11-01,,Active,4.2,9023.44
+EMP1128,G3,Business Analysis,New York,2016-06-13,,Active,4.1,11751.53
+EMP1129,G1,Machine Learning,Sydney,2021-07-13,,Active,3.9,13931.79
+EMP1130,G5,Frontend Development,Bangalore,2025-10-21,2026-07-19,Exited,4.9,8627.05
+EMP1131,G2,QA/Testing,Singapore,2017-01-26,,Active,4.7,12768.92
+EMP1132,G4,UI/UX Design,Singapore,2015-07-02,,Active,2.5,5041.62
+EMP1133,G2,QA/Testing,Bangalore,2019-04-19,,Active,4.1,10376.76
+EMP1134,G1,UI/UX Design,Toronto,2023-03-14,,Active,3.0,4683.33
+EMP1135,G1,UI/UX Design,Remote,2024-04-06,2026-07-17,Exited,4.6,10703.54
+EMP1136,G3,QA/Testing,Bangalore,2020-07-23,,Active,2.3,9934.41
+EMP1137,G2,Data Engineering,Sydney,2018-07-15,2025-01-28,Exited,3.3,11979.8
+EMP1138,G4,DevOps,London,2016-08-13,,Active,4.2,11776.22
+EMP1139,G4,Data Science,Sydney,2017-08-28,,Active,2.0,7901.41
+EMP1140,G5,Data Science,Berlin,2021-11-15,,Active,3.6,14147.59
+EMP1141,G6,Data Engineering,Singapore,2016-11-27,2023-01-01,Exited,4.3,8220.34
+EMP1142,G6,UI/UX Design,Remote,2021-06-29,,Active,4.3,13359.84
+EMP1143,G6,DevOps,New York,2017-11-01,,Active,4.9,4237.66
+EMP1144,G3,Cloud Infrastructure,New York,2021-03-06,,Active,4.7,8503.62
+EMP1145,G1,Backend Development,Toronto,2021-03-02,,Active,4.6,8774.15
+EMP1146,G3,Business Analysis,Toronto,2025-07-10,,Active,3.1,7614.62
+EMP1147,G5,Data Engineering,Sydney,2018-08-21,,Active,3.9,11336.58
+EMP1148,G4,QA/Testing,Remote,2024-04-04,2025-08-01,Exited,4.1,12022.06
+EMP1149,G6,Frontend Development,Singapore,2019-04-05,,Active,3.8,11812.89
+EMP1150,G5,Frontend Development,Sydney,2016-05-21,,Active,4.8,4999.08
+EMP1151,G4,Data Engineering,Bangalore,2024-09-22,,Active,3.0,8986.09
+EMP1152,G3,Backend Development,Sydney,2025-08-09,2026-04-14,Exited,2.6,5660.2
+EMP1153,G4,UI/UX Design,New York,2017-11-15,,Active,4.7,7884.8
+EMP1154,G4,DevOps,Remote,2018-08-16,,Active,3.5,14802.67
+EMP1155,G6,Sales Engineering,London,2018-06-15,2021-08-26,Exited,2.4,6266.84
+EMP1156,G3,QA/Testing,Remote,2016-03-08,,Active,4.2,6165.65
+EMP1157,G1,Business Analysis,Remote,2017-08-26,,Active,4.0,11006.06
+EMP1158,G4,Backend Development,New York,2017-01-16,,Active,4.0,5426.41
+EMP1159,G2,Project Management,Remote,2019-02-19,,Active,3.0,13883.46
+EMP1160,G2,Business Analysis,Toronto,2020-08-28,,Active,3.5,4873.5
+EMP1161,G1,Data Engineering,Singapore,2020-03-04,,Active,3.1,11673.39
+EMP1162,G6,Cloud Infrastructure,Bangalore,2020-07-24,,Active,2.1,11660.93
+EMP1163,G6,Project Management,Singapore,2017-09-12,,Active,4.7,8289.61
+EMP1164,G6,QA/Testing,Sydney,2015-03-02,,Active,3.0,7637.97
+EMP1165,G6,Sales Engineering,London,2015-02-10,2024-06-30,Exited,2.4,14330.38
+EMP1166,G2,DevOps,Sydney,2017-08-20,,Active,2.9,12557.34
+EMP1167,G4,DevOps,Singapore,2016-11-05,,Active,4.3,7590.95
+EMP1168,G4,Data Engineering,Sydney,2015-08-08,,Active,2.1,9638.18
+EMP1169,G2,Sales Engineering,Bangalore,2018-05-09,2020-06-06,Exited,2.6,13216.37
+EMP1170,G6,DevOps,Singapore,2015-03-18,,Active,3.0,4384.38
+EMP1171,G4,Data Science,Bangalore,2017-01-03,,Active,4.1,5791.15
+EMP1172,G1,Backend Development,Singapore,2023-06-30,,Active,3.1,4430.7
+EMP1173,G6,Project Management,Remote,2015-03-29,,Active,2.0,11293.5
+EMP1174,G6,Backend Development,London,2018-06-21,2021-06-12,Exited,2.3,10189.04
+EMP1175,G6,DevOps,Sydney,2023-06-23,,Active,3.9,4630.84
+EMP1176,G6,Business Analysis,Remote,2022-11-10,2024-02-15,Exited,4.1,8680.5
+EMP1177,G5,Machine Learning,Remote,2018-07-19,,Active,2.4,11613.3
+EMP1178,G2,Sales Engineering,Bangalore,2020-04-17,,Active,4.0,8503.95
+EMP1179,G4,Cloud Infrastructure,London,2019-01-25,,Active,4.6,10487.63
+EMP1180,G5,Data Science,Bangalore,2015-07-06,2024-09-11,Exited,3.4,5209.88
+EMP1181,G4,Machine Learning,Sydney,2017-11-10,,Active,4.5,7279.95
+EMP1182,G2,Business Analysis,Berlin,2024-05-22,,Active,2.9,12179.95
+EMP1183,G2,Project Management,Bangalore,2016-04-29,,Active,3.0,5629.87
+EMP1184,G1,QA/Testing,Remote,2023-10-09,,Active,4.8,10866.5
+EMP1185,G4,Sales Engineering,Remote,2024-08-28,,Active,4.1,8445.67
+EMP1186,G6,UI/UX Design,London,2018-05-27,,Active,3.8,10897.94
+EMP1187,G2,Data Science,Singapore,2021-12-24,2025-03-06,Exited,3.5,14309.77
+EMP1188,G6,Machine Learning,Singapore,2023-08-13,,Active,4.0,5876.64
+EMP1189,G1,Data Engineering,New York,2020-05-14,,Active,4.6,11693.44
+EMP1190,G5,Data Science,Remote,2016-10-16,,Active,3.2,10454.66
+EMP1191,G3,Backend Development,Berlin,2018-10-13,,Active,3.0,5078.72
+EMP1192,G1,Data Science,Sydney,2025-12-18,,Active,2.9,6606.6
+EMP1193,G6,Frontend Development,Bangalore,2017-05-17,,Active,3.9,11432.23
+EMP1194,G1,Business Analysis,Singapore,2024-04-21,,Active,3.6,8027.1
+EMP1195,G2,Project Management,Toronto,2020-03-16,,Active,3.3,7805.31
+EMP1196,G1,Cloud Infrastructure,Toronto,2015-01-18,2025-03-29,Exited,4.2,6032.6
+EMP1197,G2,Business Analysis,Sydney,2021-12-19,,Active,2.6,8555.66
+EMP1198,G5,Backend Development,Sydney,2021-09-19,,Active,2.5,6080.2
+EMP1199,G3,Business Analysis,New York,2020-07-16,,Active,3.7,5565.23

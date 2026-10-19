@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>My Workforce Simulation Dashboard</title>
+<script src="chart.min.js"></script>
+<style>
+  body { font-family: Arial, sans-serif; background:#f3f4f2; margin:0; padding:24px; color:#1c2621; }
+  h1 { margin-bottom:4px; }
+  .meta { color:#5b6b62; margin-bottom:24px; }
+  .grid { display:grid; grid-template-columns:1fr 1fr; gap:20px; }
+  .card { background:white; border:1px solid #d7ddd6; border-radius:10px; padding:18px; margin-bottom:20px; }
+  .kpis { display:flex; gap:14px; flex-wrap:wrap; margin-bottom:24px; }
+  .kpi { background:white; border:1px solid #d7ddd6; border-radius:10px; padding:14px 18px; min-width:130px; }
+  .kpi .v { font-size:24px; font-weight:bold; }
+  .kpi .l { font-size:12px; color:#5b6b62; }
+  .feed-item { padding:8px 0; border-bottom:1px solid #eee; font-size:13px; }
+  .pill { display:inline-block; background:#eef1ee; border-radius:6px; padding:4px 10px; margin:3px; font-size:13px; }
+</style>
+</head>
+<body>
+  <h1>Workforce Simulation Dashboard</h1>
+  <div class="meta" id="meta"></div>
+  <div class="kpis" id="kpis"></div>
+  <div class="grid">
+    <div class="card">
+      <h3>Deployed vs Bench Over Time</h3>
+      <canvas id="chart1"></canvas>
+    </div>
+    <div class="card">
+      <h3>Average Attrition Risk Over Time</h3>
+      <canvas id="chart2"></canvas>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="card">
+      <h3>Recent Agent Activity</h3>
+      <div id="feed"></div>
+    </div>
+    <div class="card">
+      <h3>Final Snapshot</h3>
+      <p><strong>Risk category</strong></p>
+      <div id="risk"></div>
+      <p><strong>Deployment status</strong></p>
+      <div id="deploy"></div>
+    </div>
+  </div>
+
+<script>
+__SIM_DATA__
+
+const dates = SIM_DATA.kpi_daily.map(d => d.date);
+document.getElementById('meta').innerText =
+  `${SIM_DATA.meta.sim_start} to ${SIM_DATA.meta.sim_end} | Headcount ${SIM_DATA.meta.starting_headcount} -> ${SIM_DATA.meta.ending_headcount} | ${SIM_DATA.meta.total_events} events logged`;
+
+const last = SIM_DATA.kpi_daily[SIM_DATA.kpi_daily.length - 1];
+document.getElementById('kpis').innerHTML = `
+  <div class="kpi"><div class="v">${last.active_headcount}</div><div class="l">Active headcount</div></div>
+  <div class="kpi"><div class="v">${last.deployed_count}</div><div class="l">Deployed</div></div>
+  <div class="kpi"><div class="v">${last.bench_count}</div><div class="l">On bench</div></div>
+  <div class="kpi"><div class="v">${last.high_risk_count}</div><div class="l">High risk</div></div>
+`;
+
+new Chart(document.getElementById('chart1'), {
+  type: 'line',
+  data: { labels: dates, datasets: [
+    { label: 'Deployed', data: SIM_DATA.kpi_daily.map(d => d.deployed_count), borderColor: '#2f7d6e', fill:false },
+    { label: 'Bench', data: SIM_DATA.kpi_daily.map(d => d.bench_count), borderColor: '#c98a2c', fill:false }
+  ]}
+});
+
+new Chart(document.getElementById('chart2'), {
+  type: 'line',
+  data: { labels: dates, datasets: [
+    { label: 'Avg risk score', data: SIM_DATA.kpi_daily.map(d => d.avg_risk_score), borderColor: '#c4553e', fill:false }
+  ]}
+});
+
+document.getElementById('feed').innerHTML = SIM_DATA.feed.slice(0, 15).map(f =>
+  `<div class="feed-item"><strong>${f.event_type}</strong> (${f.event_date}) - ${f.reason}</div>`
+).join('');
+
+function pills(id, dist) {
+  document.getElementById(id).innerHTML = Object.entries(dist).map(([k,v]) => `<span class="pill">${k}: ${v}</span>`).join('');
+}
+pills('risk', SIM_DATA.risk_dist);
+pills('deploy', SIM_DATA.deployment_dist);
+</script>
+</body>
+</html>

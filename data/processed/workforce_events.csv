@@ -1,0 +1,179 @@
+event_id,event_date,event_type,employee_id,customer_id,project_id,old_state,new_state,reason,created_by_agent
+EVT90001,2026-09-27,ASSIGNMENT_ENDED,EMP1148,CUST1047,PRJ2001,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90002,2026-09-27,ASSIGNMENT_ENDED,EMP1039,CUST1001,PRJ2026,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90003,2026-09-27,ASSIGNMENT_ENDED,EMP1068,CUST1039,PRJ2037,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90004,2026-09-28,EMPLOYEE_EXITED,EMP1177,,,Active,Exited,"Attrition risk score 40 (bench 46d, rating 2.4)",Attrition Agent
+EVT90005,2026-09-28,EMPLOYEE_EXITED,EMP1199,,,Active,Exited,"Attrition risk score 25 (bench 46d, rating 3.7)",Attrition Agent
+EVT90008,2026-09-29,EMPLOYEE_EXITED,EMP1193,,,Active,Exited,"Attrition risk score 25 (bench 47d, rating 3.9)",Attrition Agent
+EVT90010,2026-09-30,ASSIGNMENT_ENDED,EMP1110,CUST1047,PRJ2001,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90013,2026-09-30,EMPLOYEE_EXITED,EMP1116,,,Active,Exited,"Attrition risk score 25 (bench 48d, rating 3.1)",Attrition Agent
+EVT90016,2026-09-30,DEPLOYMENT_ASSIGNED,EMP1060,CUST1049,PRJ2010,Bench,Deployed,"Skill match on DevOps, 48d on bench",Deployment Agent
+EVT90018,2026-10-02,ASSIGNMENT_ENDED,EMP1001,CUST1022,PRJ2038,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90029,2026-10-02,EMPLOYEE_EXITED,EMP1025,,,Active,Exited,"Attrition risk score 25 (bench 50d, rating 3.4)",Attrition Agent
+EVT90030,2026-10-02,EMPLOYEE_EXITED,EMP1083,,,Active,Exited,"Attrition risk score 40 (bench 50d, rating 2.3)",Attrition Agent
+EVT90034,2026-10-02,DEPLOYMENT_ASSIGNED,EMP1038,CUST1029,PRJ2006,Bench,Deployed,"Skill match on Project Management, 50d on bench",Deployment Agent
+EVT90036,2026-10-02,DEPLOYMENT_ASSIGNED,EMP1046,CUST1043,,Bench,Deployed,"Skill match on Business Analysis, 50d on bench",Deployment Agent
+EVT90038,2026-10-02,DEPLOYMENT_ASSIGNED,EMP1086,CUST1039,PRJ2037,Bench,Deployed,"Skill match on UI/UX Design, 50d on bench",Deployment Agent
+EVT90040,2026-10-02,DEPLOYMENT_ASSIGNED,EMP1122,CUST1034,,Bench,Deployed,"Skill match on Data Engineering, 50d on bench",Deployment Agent
+EVT90042,2026-10-02,DEPLOYMENT_ASSIGNED,EMP1106,CUST1030,PRJ2049,Bench,Deployed,"Skill match on Cloud Infrastructure, 50d on bench",Deployment Agent
+EVT90056,2026-10-03,EMPLOYEE_EXITED,EMP1114,,,Active,Exited,"Attrition risk score 25 (bench 51d, rating 3.1)",Attrition Agent
+EVT90057,2026-10-03,EMPLOYEE_EXITED,EMP1132,,,Active,Exited,"Attrition risk score 40 (bench 51d, rating 2.5)",Attrition Agent
+EVT90061,2026-10-03,DEPLOYMENT_ASSIGNED,EMP1012,CUST1028,,Bench,Deployed,"Skill match on QA/Testing, 51d on bench",Deployment Agent
+EVT90063,2026-10-03,DEPLOYMENT_ASSIGNED,EMP1006,CUST1035,PRJ2045,Bench,Deployed,"Skill match on Data Science, 51d on bench",Deployment Agent
+EVT90065,2026-10-03,DEPLOYMENT_ASSIGNED,EMP1050,CUST1003,PRJ2032,Bench,Deployed,"Skill match on Project Management, 51d on bench",Deployment Agent
+EVT90079,2026-10-04,EMPLOYEE_EXITED,EMP1056,,,Active,Exited,"Attrition risk score 40 (bench 52d, rating 2.5)",Attrition Agent
+EVT90082,2026-10-04,DEPLOYMENT_ASSIGNED,EMP1088,CUST1002,,Bench,Deployed,"Skill match on DevOps, 52d on bench",Deployment Agent
+EVT90084,2026-10-04,DEPLOYMENT_ASSIGNED,EMP1041,CUST1016,PRJ2019,Bench,Deployed,"Skill match on Backend Development, 52d on bench",Deployment Agent
+EVT90086,2026-10-04,DEPLOYMENT_ASSIGNED,EMP1015,CUST1021,,Bench,Deployed,"Skill match on QA/Testing, 52d on bench",Deployment Agent
+EVT90088,2026-10-04,DEPLOYMENT_ASSIGNED,EMP1102,CUST1040,,Bench,Deployed,"Skill match on DevOps, 52d on bench",Deployment Agent
+EVT90093,2026-10-06,EMPLOYEE_EXITED,EMP1115,,,Active,Exited,"Attrition risk score 25 (bench 54d, rating 4.5)",Attrition Agent
+EVT90094,2026-10-06,EMPLOYEE_EXITED,EMP1192,,,Active,Exited,"Attrition risk score 25 (bench 54d, rating 2.9)",Attrition Agent
+EVT90097,2026-10-08,ASSIGNMENT_ENDED,EMP1125,CUST1022,PRJ2028,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90098,2026-10-08,ASSIGNMENT_ENDED,EMP1007,CUST1016,PRJ2019,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90116,2026-10-08,DEPLOYMENT_ASSIGNED,EMP1104,CUST1039,PRJ2037,Bench,Deployed,"Skill match on DevOps, 56d on bench",Deployment Agent
+EVT90118,2026-10-08,DEPLOYMENT_ASSIGNED,EMP1004,CUST1004,PRJ2023,Bench,Deployed,"Skill match on Frontend Development, 56d on bench",Deployment Agent
+EVT90120,2026-10-08,DEPLOYMENT_ASSIGNED,EMP1127,CUST1033,,Bench,Deployed,"Skill match on DevOps, 56d on bench",Deployment Agent
+EVT90122,2026-10-08,DEPLOYMENT_ASSIGNED,EMP1124,CUST1011,PRJ2008,Bench,Deployed,"Skill match on Cloud Infrastructure, 43d on bench",Deployment Agent
+EVT90124,2026-10-08,DEPLOYMENT_ASSIGNED,EMP1100,CUST1001,PRJ2026,Bench,Deployed,"Skill match on Business Analysis, 56d on bench",Deployment Agent
+EVT90126,2026-10-08,DEPLOYMENT_ASSIGNED,EMP1009,CUST1002,,Bench,Deployed,"Skill match on Sales Engineering, 56d on bench",Deployment Agent
+EVT90128,2026-10-08,DEPLOYMENT_ASSIGNED,EMP1144,CUST1028,,Bench,Deployed,"Skill match on Cloud Infrastructure, 56d on bench",Deployment Agent
+EVT90130,2026-10-08,DEPLOYMENT_ASSIGNED,EMP1051,CUST1048,PRJ2003,Bench,Deployed,"Skill match on Project Management, 56d on bench",Deployment Agent
+EVT90157,2026-10-09,DEPLOYMENT_ASSIGNED,EMP1029,CUST1015,PRJ2004,Bench,Deployed,"Skill match on QA/Testing, 57d on bench",Deployment Agent
+EVT90159,2026-10-09,DEPLOYMENT_ASSIGNED,EMP1179,CUST1019,,Bench,Deployed,"Skill match on Cloud Infrastructure, 57d on bench",Deployment Agent
+EVT90161,2026-10-09,DEPLOYMENT_ASSIGNED,EMP1040,CUST1002,,Bench,Deployed,"Skill match on QA/Testing, 57d on bench",Deployment Agent
+EVT90163,2026-10-09,DEPLOYMENT_ASSIGNED,EMP1079,CUST1021,,Bench,Deployed,"Skill match on Project Management, 57d on bench",Deployment Agent
+EVT90165,2026-10-09,DEPLOYMENT_ASSIGNED,EMP1112,CUST1049,PRJ2010,Bench,Deployed,"Skill match on Business Analysis, 57d on bench",Deployment Agent
+EVT90167,2026-10-09,DEPLOYMENT_ASSIGNED,EMP1092,CUST1030,PRJ2049,Bench,Deployed,"Skill match on Project Management, 57d on bench",Deployment Agent
+EVT90169,2026-10-09,DEPLOYMENT_ASSIGNED,EMP1107,CUST1031,PRJ2048,Bench,Deployed,"Skill match on Sales Engineering, 57d on bench",Deployment Agent
+EVT90185,2026-10-10,EMPLOYEE_EXITED,EMP1014,,,Active,Exited,"Attrition risk score 40 (bench 58d, rating 2.5)",Attrition Agent
+EVT90188,2026-10-10,DEPLOYMENT_ASSIGNED,EMP1118,CUST1045,PRJ2025,Bench,Deployed,"Skill match on Sales Engineering, 32d on bench",Deployment Agent
+EVT90190,2026-10-10,DEPLOYMENT_ASSIGNED,EMP1091,CUST1001,PRJ2009,Bench,Deployed,"Skill match on Backend Development, 33d on bench",Deployment Agent
+EVT90192,2026-10-10,DEPLOYMENT_ASSIGNED,EMP1189,CUST1032,PRJ2043,Bench,Deployed,"Skill match on Data Engineering, 58d on bench",Deployment Agent
+EVT90213,2026-10-11,EMPLOYEE_EXITED,EMP1134,,,Active,Exited,"Attrition risk score 25 (bench 59d, rating 3.0)",Attrition Agent
+EVT90216,2026-10-11,DEPLOYMENT_ASSIGNED,EMP1142,CUST1034,,Bench,Deployed,"Skill match on UI/UX Design, 59d on bench",Deployment Agent
+EVT90218,2026-10-11,DEPLOYMENT_ASSIGNED,EMP1138,CUST1019,,Bench,Deployed,"Skill match on DevOps, 59d on bench",Deployment Agent
+EVT90220,2026-10-11,DEPLOYMENT_ASSIGNED,EMP1019,CUST1003,PRJ2032,Bench,Deployed,"Skill match on Frontend Development, 59d on bench",Deployment Agent
+EVT90222,2026-10-11,DEPLOYMENT_ASSIGNED,EMP1003,CUST1036,PRJ2041,Bench,Deployed,"Skill match on Data Engineering, 59d on bench",Deployment Agent
+EVT90224,2026-10-11,DEPLOYMENT_ASSIGNED,EMP1054,CUST1013,,Bench,Deployed,"Skill match on Machine Learning, 59d on bench",Deployment Agent
+EVT90226,2026-10-11,DEPLOYMENT_ASSIGNED,EMP1143,CUST1023,,Bench,Deployed,"Skill match on DevOps, 59d on bench",Deployment Agent
+EVT90228,2026-10-11,DEPLOYMENT_ASSIGNED,EMP1153,CUST1010,,Bench,Deployed,"Skill match on UI/UX Design, 59d on bench",Deployment Agent
+EVT90237,2026-10-12,ASSIGNMENT_ENDED,EMP1164,CUST1016,PRJ2019,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90238,2026-10-12,EMPLOYEE_EXITED,EMP1108,,,Active,Exited,"Attrition risk score 25 (bench 60d, rating 3.9)",Attrition Agent
+EVT90249,2026-10-13,DEPLOYMENT_ASSIGNED,EMP1167,CUST1005,,Bench,Deployed,"Skill match on DevOps, 61d on bench",Deployment Agent
+EVT90251,2026-10-13,DEPLOYMENT_ASSIGNED,EMP1117,CUST1008,,Bench,Deployed,"Skill match on Backend Development, 61d on bench",Deployment Agent
+EVT90253,2026-10-13,DEPLOYMENT_ASSIGNED,EMP1178,CUST1030,PRJ2049,Bench,Deployed,"Skill match on Sales Engineering, 61d on bench",Deployment Agent
+EVT90255,2026-10-13,DEPLOYMENT_ASSIGNED,EMP1128,CUST1028,,Bench,Deployed,"Skill match on Business Analysis, 61d on bench",Deployment Agent
+EVT90260,2026-10-15,ASSIGNMENT_ENDED,EMP1182,CUST1022,PRJ2038,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90261,2026-10-15,EMPLOYEE_EXITED,EMP1049,,,Active,Exited,"Attrition risk score 40 (bench 63d, rating 3.0)",Attrition Agent
+EVT90262,2026-10-15,EMPLOYEE_EXITED,EMP1066,,,Active,Exited,"Attrition risk score 40 (bench 63d, rating 3.9)",Attrition Agent
+EVT90274,2026-10-17,DEPLOYMENT_ASSIGNED,EMP1185,CUST1003,PRJ2007,Bench,Deployed,"Skill match on Sales Engineering, 65d on bench",Deployment Agent
+EVT90276,2026-10-17,DEPLOYMENT_ASSIGNED,EMP1096,CUST1044,PRJ2014,Bench,Deployed,"Skill match on QA/Testing, 62d on bench",Deployment Agent
+EVT90278,2026-10-17,DEPLOYMENT_ASSIGNED,EMP1033,CUST1030,PRJ2049,Bench,Deployed,"Skill match on DevOps, 65d on bench",Deployment Agent
+EVT90280,2026-10-17,DEPLOYMENT_ASSIGNED,EMP1061,CUST1009,PRJ2024,Bench,Deployed,"Skill match on DevOps, 65d on bench",Deployment Agent
+EVT90296,2026-10-19,DEPLOYMENT_ASSIGNED,EMP1013,CUST1012,PRJ2044,Bench,Deployed,"Skill match on Sales Engineering, 67d on bench",Deployment Agent
+EVT90298,2026-10-19,DEPLOYMENT_ASSIGNED,EMP1022,CUST1049,PRJ2010,Bench,Deployed,"Skill match on Frontend Development, 67d on bench",Deployment Agent
+EVT90300,2026-10-19,DEPLOYMENT_ASSIGNED,EMP1131,CUST1042,,Bench,Deployed,"Skill match on QA/Testing, 67d on bench",Deployment Agent
+EVT90302,2026-10-19,DEPLOYMENT_ASSIGNED,EMP1047,CUST1034,,Bench,Deployed,"Skill match on Data Science, 67d on bench",Deployment Agent
+EVT90313,2026-10-20,DEPLOYMENT_ASSIGNED,EMP1021,CUST1030,PRJ2049,Bench,Deployed,"Skill match on Sales Engineering, 68d on bench",Deployment Agent
+EVT90315,2026-10-20,DEPLOYMENT_ASSIGNED,EMP1133,CUST1047,PRJ2001,Bench,Deployed,"Skill match on QA/Testing, 68d on bench",Deployment Agent
+EVT90318,2026-10-21,ASSIGNMENT_ENDED,EMP1168,CUST1039,PRJ2037,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90319,2026-10-21,ASSIGNMENT_ENDED,EMP1158,CUST1039,PRJ2037,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90320,2026-10-21,EMPLOYEE_EXITED,EMP1146,,,Active,Exited,"Attrition risk score 40 (bench 69d, rating 3.1)",Attrition Agent
+EVT90321,2026-10-21,EMPLOYEE_EXITED,EMP1181,,,Active,Exited,"Attrition risk score 40 (bench 69d, rating 4.5)",Attrition Agent
+EVT90324,2026-10-22,ASSIGNMENT_ENDED,EMP1156,CUST1022,PRJ2028,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90331,2026-10-22,EMPLOYEE_EXITED,EMP1175,,,Active,Exited,"Attrition risk score 40 (bench 70d, rating 3.9)",Attrition Agent
+EVT90334,2026-10-22,DEPLOYMENT_ASSIGNED,EMP1163,CUST1024,PRJ2005,Bench,Deployed,"Skill match on Project Management, 70d on bench",Deployment Agent
+EVT90336,2026-10-22,DEPLOYMENT_ASSIGNED,EMP1157,CUST1043,,Bench,Deployed,"Skill match on Business Analysis, 70d on bench",Deployment Agent
+EVT90338,2026-10-22,DEPLOYMENT_ASSIGNED,EMP1052,CUST1034,,Bench,Deployed,"Skill match on Sales Engineering, 70d on bench",Deployment Agent
+EVT90343,2026-10-23,ASSIGNMENT_ENDED,EMP1173,CUST1009,PRJ2039,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90344,2026-10-23,EMPLOYEE_EXITED,EMP1154,,,Active,Exited,"Attrition risk score 25 (bench 34d, rating 3.5)",Attrition Agent
+EVT90346,2026-10-25,EMPLOYEE_EXITED,EMP1037,,,Active,Exited,"Attrition risk score 40 (bench 73d, rating 4.3)",Attrition Agent
+EVT90347,2026-10-25,EMPLOYEE_EXITED,EMP1149,,,Active,Exited,"Attrition risk score 40 (bench 73d, rating 3.8)",Attrition Agent
+EVT90357,2026-10-26,DEPLOYMENT_ASSIGNED,EMP1008,CUST1013,,Bench,Deployed,"Skill match on Project Management, 74d on bench",Deployment Agent
+EVT90359,2026-10-26,DEPLOYMENT_ASSIGNED,EMP1027,CUST1021,,Bench,Deployed,"Skill match on Business Analysis, 74d on bench",Deployment Agent
+EVT90361,2026-10-26,DEPLOYMENT_ASSIGNED,EMP1062,CUST1023,,Bench,Deployed,"Skill match on Data Engineering, 74d on bench",Deployment Agent
+EVT90376,2026-10-27,DEPLOYMENT_ASSIGNED,EMP1026,CUST1022,PRJ2038,Bench,Deployed,"Skill match on Frontend Development, 75d on bench",Deployment Agent
+EVT90378,2026-10-27,DEPLOYMENT_ASSIGNED,EMP1084,CUST1027,PRJ2022,Bench,Deployed,"Skill match on Cloud Infrastructure, 75d on bench",Deployment Agent
+EVT90380,2026-10-27,DEPLOYMENT_ASSIGNED,EMP1036,CUST1002,,Bench,Deployed,"Skill match on Business Analysis, 75d on bench",Deployment Agent
+EVT90382,2026-10-27,DEPLOYMENT_ASSIGNED,EMP1172,CUST1020,,Bench,Deployed,"Skill match on Backend Development, 75d on bench",Deployment Agent
+EVT90384,2026-10-27,DEPLOYMENT_ASSIGNED,EMP1002,CUST1029,PRJ2006,Bench,Deployed,"Skill match on UI/UX Design, 75d on bench",Deployment Agent
+EVT90391,2026-10-28,EMPLOYEE_EXITED,EMP1074,,,Active,Exited,"Attrition risk score 40 (bench 76d, rating 2.7)",Attrition Agent
+EVT90393,2026-10-29,ASSIGNMENT_ENDED,EMP1043,CUST1022,PRJ2028,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90400,2026-10-29,EMPLOYEE_EXITED,EMP1087,,,Active,Exited,"Attrition risk score 40 (bench 77d, rating 3.9)",Attrition Agent
+EVT90403,2026-10-29,DEPLOYMENT_ASSIGNED,EMP1094,CUST1045,PRJ2025,Bench,Deployed,"Skill match on Project Management, 77d on bench",Deployment Agent
+EVT90405,2026-10-29,DEPLOYMENT_ASSIGNED,EMP1028,CUST1011,PRJ2008,Bench,Deployed,"Skill match on Frontend Development, 77d on bench",Deployment Agent
+EVT90407,2026-10-29,DEPLOYMENT_ASSIGNED,EMP1081,CUST1014,,Bench,Deployed,"Skill match on Data Engineering, 77d on bench",Deployment Agent
+EVT90420,2026-10-30,DEPLOYMENT_ASSIGNED,EMP1077,CUST1039,PRJ2037,Bench,Deployed,"Skill match on Business Analysis, 78d on bench",Deployment Agent
+EVT90422,2026-10-30,DEPLOYMENT_ASSIGNED,EMP1069,CUST1002,,Bench,Deployed,"Skill match on Machine Learning, 78d on bench",Deployment Agent
+EVT90424,2026-10-30,DEPLOYMENT_ASSIGNED,EMP1198,CUST1049,PRJ2036,Bench,Deployed,"Skill match on Backend Development, 78d on bench",Deployment Agent
+EVT90426,2026-10-30,DEPLOYMENT_ASSIGNED,EMP1171,CUST1014,,Bench,Deployed,"Skill match on Data Science, 78d on bench",Deployment Agent
+EVT90432,2026-11-01,ASSIGNMENT_ENDED,EMP1044,CUST1022,PRJ2038,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90442,2026-11-01,DEPLOYMENT_ASSIGNED,EMP1075,CUST1008,,Bench,Deployed,"Skill match on Machine Learning, 80d on bench",Deployment Agent
+EVT90444,2026-11-01,DEPLOYMENT_ASSIGNED,EMP1111,CUST1035,PRJ2045,Bench,Deployed,"Skill match on QA/Testing, 72d on bench",Deployment Agent
+EVT90446,2026-11-01,DEPLOYMENT_ASSIGNED,EMP1093,CUST1033,,Bench,Deployed,"Skill match on Cloud Infrastructure, 80d on bench",Deployment Agent
+EVT90448,2026-11-01,DEPLOYMENT_ASSIGNED,EMP1188,CUST1003,PRJ2007,Bench,Deployed,"Skill match on Machine Learning, 80d on bench",Deployment Agent
+EVT90474,2026-11-01,BUDGET_REALLOCATED,,CUST1022,,CUST1047,CUST1022,Burn rate 126% vs donor at 0%,Budget Agent
+EVT90475,2026-11-01,BUDGET_REALLOCATED,,CUST1016,,CUST1027,CUST1016,Burn rate 118% vs donor at 0%,Budget Agent
+EVT90476,2026-11-01,BUDGET_REALLOCATED,,CUST1018,,CUST1032,CUST1018,Burn rate 98% vs donor at 0%,Budget Agent
+EVT90480,2026-11-02,ASSIGNMENT_ENDED,EMP1053,CUST1022,PRJ2038,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90481,2026-11-02,EMPLOYEE_EXITED,EMP1159,,,Active,Exited,"Attrition risk score 40 (bench 81d, rating 3.0)",Attrition Agent
+EVT90487,2026-11-03,EMPLOYEE_EXITED,EMP1031,,,Active,Exited,"Attrition risk score 25 (bench 43d, rating 4.7)",Attrition Agent
+EVT90490,2026-11-03,DEPLOYMENT_ASSIGNED,EMP1183,CUST1018,PRJ2029,Bench,Deployed,"Skill match on Project Management, 82d on bench",Deployment Agent
+EVT90492,2026-11-03,DEPLOYMENT_ASSIGNED,EMP1082,CUST1007,PRJ2002,Bench,Deployed,"Skill match on Business Analysis, 81d on bench",Deployment Agent
+EVT90504,2026-11-05,DEPLOYMENT_ASSIGNED,EMP1195,CUST1009,PRJ2033,Bench,Deployed,"Skill match on Project Management, 84d on bench",Deployment Agent
+EVT90506,2026-11-05,DEPLOYMENT_ASSIGNED,EMP1119,CUST1002,,Bench,Deployed,"Skill match on Machine Learning, 84d on bench",Deployment Agent
+EVT90508,2026-11-05,DEPLOYMENT_ASSIGNED,EMP1184,CUST1035,PRJ2045,Bench,Deployed,"Skill match on QA/Testing, 84d on bench",Deployment Agent
+EVT90513,2026-11-06,ASSIGNMENT_ENDED,EMP1030,CUST1016,PRJ2019,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90517,2026-11-06,DEPLOYMENT_ASSIGNED,EMP1039,CUST1001,PRJ2026,Bench,Deployed,"Skill match on Backend Development, 40d on bench",Deployment Agent
+EVT90526,2026-11-07,DEPLOYMENT_ASSIGNED,EMP1147,CUST1007,PRJ2002,Bench,Deployed,"Skill match on Data Engineering, 86d on bench",Deployment Agent
+EVT90528,2026-11-07,DEPLOYMENT_ASSIGNED,EMP1123,CUST1029,PRJ2006,Bench,Deployed,"Skill match on Cloud Infrastructure, 86d on bench",Deployment Agent
+EVT90530,2026-11-07,DEPLOYMENT_ASSIGNED,EMP1017,CUST1017,PRJ2040,Bench,Deployed,"Skill match on QA/Testing, 86d on bench",Deployment Agent
+EVT90535,2026-11-08,ASSIGNMENT_ENDED,EMP1001,CUST1049,PRJ2010,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90536,2026-11-08,EMPLOYEE_EXITED,EMP1120,,,Active,Exited,"Attrition risk score 40 (bench 87d, rating 2.6)",Attrition Agent
+EVT90541,2026-11-09,DEPLOYMENT_ASSIGNED,EMP1160,CUST1044,PRJ2014,Bench,Deployed,"Skill match on Business Analysis, 88d on bench",Deployment Agent
+EVT90548,2026-11-10,DEPLOYMENT_ASSIGNED,EMP1194,CUST1049,PRJ2010,Bench,Deployed,"Skill match on Business Analysis, 89d on bench",Deployment Agent
+EVT90550,2026-11-10,DEPLOYMENT_ASSIGNED,EMP1020,CUST1020,,Bench,Deployed,"Skill match on QA/Testing, 89d on bench",Deployment Agent
+EVT90555,2026-11-13,EMPLOYEE_EXITED,EMP1164,,,Active,Exited,"Attrition risk score 25 (bench 32d, rating 3.0)",Attrition Agent
+EVT90558,2026-11-13,DEPLOYMENT_ASSIGNED,EMP1034,CUST1029,PRJ2006,Bench,Deployed,"Skill match on QA/Testing, 92d on bench",Deployment Agent
+EVT90562,2026-11-15,EMPLOYEE_EXITED,EMP1109,,,Active,Exited,"Attrition risk score 40 (bench 62d, rating 3.9)",Attrition Agent
+EVT90565,2026-11-15,DEPLOYMENT_ASSIGNED,EMP1129,CUST1020,,Bench,Deployed,"Skill match on Machine Learning, 94d on bench",Deployment Agent
+EVT90574,2026-11-17,DEPLOYMENT_ASSIGNED,EMP1059,CUST1018,PRJ2029,Bench,Deployed,"Skill match on QA/Testing, 96d on bench",Deployment Agent
+EVT90576,2026-11-17,DEPLOYMENT_ASSIGNED,EMP1097,CUST1032,PRJ2043,Bench,Deployed,"Skill match on Sales Engineering, 63d on bench",Deployment Agent
+EVT90578,2026-11-17,DEPLOYMENT_ASSIGNED,EMP1162,CUST1038,,Bench,Deployed,"Skill match on Cloud Infrastructure, 96d on bench",Deployment Agent
+EVT90587,2026-11-19,DEPLOYMENT_ASSIGNED,EMP1063,CUST1029,PRJ2006,Bench,Deployed,"Skill match on UI/UX Design, 91d on bench",Deployment Agent
+EVT90589,2026-11-19,DEPLOYMENT_ASSIGNED,EMP1071,CUST1014,,Bench,Deployed,"Skill match on QA/Testing, 98d on bench",Deployment Agent
+EVT90595,2026-11-22,DEPLOYMENT_ASSIGNED,EMP1099,CUST1038,,Bench,Deployed,"Skill match on DevOps, 101d on bench",Deployment Agent
+EVT90600,2026-11-24,DEPLOYMENT_ASSIGNED,EMP1007,CUST1028,,Bench,Deployed,"Skill match on Project Management, 47d on bench",Deployment Agent
+EVT90607,2026-11-26,DEPLOYMENT_ASSIGNED,EMP1032,CUST1005,,Bench,Deployed,"Skill match on Frontend Development, 105d on bench",Deployment Agent
+EVT90609,2026-11-26,DEPLOYMENT_ASSIGNED,EMP1151,CUST1044,PRJ2042,Bench,Deployed,"Skill match on Data Engineering, 105d on bench",Deployment Agent
+EVT90616,2026-11-27,DEPLOYMENT_ASSIGNED,EMP1191,CUST1016,PRJ2030,Bench,Deployed,"Skill match on Backend Development, 64d on bench",Deployment Agent
+EVT90622,2026-11-28,DEPLOYMENT_ASSIGNED,EMP1158,CUST1016,PRJ2019,Bench,Deployed,"Skill match on Backend Development, 38d on bench",Deployment Agent
+EVT90627,2026-11-29,DEPLOYMENT_ASSIGNED,EMP1078,CUST1042,,Bench,Deployed,"Skill match on UI/UX Design, 108d on bench",Deployment Agent
+EVT90629,2026-11-30,EMPLOYEE_EXITED,EMP1161,,,Active,Exited,"Attrition risk score 40 (bench 109d, rating 3.1)",Attrition Agent
+EVT90631,2026-12-01,ASSIGNMENT_ENDED,EMP1145,CUST1001,PRJ2026,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90635,2026-12-01,DEPLOYMENT_ASSIGNED,EMP1048,CUST1011,PRJ2008,Bench,Deployed,"Skill match on Data Science, 110d on bench",Deployment Agent
+EVT90665,2026-12-01,BUDGET_REALLOCATED,,CUST1000,,CUST1047,CUST1000,Burn rate 97% vs donor at 0%,Budget Agent
+EVT90670,2026-12-03,DEPLOYMENT_ASSIGNED,EMP1072,CUST1010,,Bench,Deployed,"Skill match on Data Science, 112d on bench",Deployment Agent
+EVT90677,2026-12-04,DEPLOYMENT_ASSIGNED,EMP1113,CUST1021,,Bench,Deployed,"Skill match on QA/Testing, 69d on bench",Deployment Agent
+EVT90679,2026-12-04,DEPLOYMENT_ASSIGNED,EMP1024,CUST1012,PRJ2044,Bench,Deployed,"Skill match on Business Analysis, 74d on bench",Deployment Agent
+EVT90682,2026-12-05,ASSIGNMENT_ENDED,EMP1023,CUST1049,PRJ2010,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90683,2026-12-06,EMPLOYEE_EXITED,EMP1068,,,Active,Exited,"Attrition risk score 55 (bench 70d, rating 2.5)",Attrition Agent
+EVT90690,2026-12-07,DEPLOYMENT_ASSIGNED,EMP1186,CUST1014,,Bench,Deployed,"Skill match on UI/UX Design, 116d on bench",Deployment Agent
+EVT90692,2026-12-07,DEPLOYMENT_ASSIGNED,EMP1182,CUST1035,PRJ2045,Bench,Deployed,"Skill match on Business Analysis, 53d on bench",Deployment Agent
+EVT90699,2026-12-08,EMPLOYEE_EXITED,EMP1035,,,Active,Exited,"Attrition risk score 55 (bench 117d, rating 2.1)",Attrition Agent
+EVT90702,2026-12-08,DEPLOYMENT_ASSIGNED,EMP1173,CUST1035,PRJ2045,Bench,Deployed,"Skill match on Project Management, 46d on bench",Deployment Agent
+EVT90704,2026-12-08,DEPLOYMENT_ASSIGNED,EMP1030,CUST1003,PRJ2032,Bench,Deployed,"Skill match on Cloud Infrastructure, 32d on bench",Deployment Agent
+EVT90710,2026-12-09,DEPLOYMENT_ASSIGNED,EMP1053,CUST1046,PRJ2046,Bench,Deployed,"Skill match on Backend Development, 37d on bench",Deployment Agent
+EVT90718,2026-12-11,DEPLOYMENT_ASSIGNED,EMP1101,CUST1022,PRJ2028,Bench,Deployed,"Skill match on DevOps, 118d on bench",Deployment Agent
+EVT90720,2026-12-11,DEPLOYMENT_ASSIGNED,EMP1166,CUST1005,,Bench,Deployed,"Skill match on DevOps, 120d on bench",Deployment Agent
+EVT90724,2026-12-12,ASSIGNMENT_ENDED,EMP1090,CUST1001,PRJ2026,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90730,2026-12-16,DEPLOYMENT_ASSIGNED,EMP1121,CUST1018,PRJ2029,Bench,Deployed,"Skill match on Sales Engineering, 125d on bench",Deployment Agent
+EVT90732,2026-12-16,DEPLOYMENT_ASSIGNED,EMP1136,CUST1010,,Bench,Deployed,"Skill match on QA/Testing, 125d on bench",Deployment Agent
+EVT90738,2026-12-17,DEPLOYMENT_ASSIGNED,EMP1139,CUST1010,,Bench,Deployed,"Skill match on Data Science, 126d on bench",Deployment Agent
+EVT90740,2026-12-18,ASSIGNMENT_ENDED,EMP1173,CUST1049,PRJ2010,Deployed,Bench,Assignment reached its end date,SimulationEngine
+EVT90744,2026-12-20,DEPLOYMENT_ASSIGNED,EMP1168,CUST1013,,Bench,Deployed,"Skill match on Data Engineering, 60d on bench",Deployment Agent
+EVT90751,2026-12-21,DEPLOYMENT_ASSIGNED,EMP1126,CUST1013,,Bench,Deployed,"Skill match on Sales Engineering, 130d on bench",Deployment Agent
+EVT90753,2026-12-21,DEPLOYMENT_ASSIGNED,EMP1145,CUST1044,PRJ2014,Bench,Deployed,"Skill match on Backend Development, 20d on bench",Deployment Agent
+EVT90759,2026-12-23,DEPLOYMENT_ASSIGNED,EMP1140,CUST1025,PRJ2017,Bench,Deployed,"Skill match on Data Science, 132d on bench",Deployment Agent
+EVT90764,2026-12-24,EMPLOYEE_EXITED,EMP1105,,,Active,Exited,"Attrition risk score 40 (bench 93d, rating 3.3)",Attrition Agent
+EVT90767,2026-12-24,DEPLOYMENT_ASSIGNED,EMP1170,CUST1014,,Bench,Deployed,"Skill match on DevOps, 133d on bench",Deployment Agent

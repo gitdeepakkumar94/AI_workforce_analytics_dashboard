@@ -1,0 +1,51 @@
+customer_id,customer_name,industry,account_owner
+CUST1000,Customer_1,Manufacturing,David Kim
+CUST1001,Customer_2,Hospitality,Sarah Johnson
+CUST1002,Customer_3,Real Estate,David Kim
+CUST1003,Customer_4,Retail,Sarah Johnson
+CUST1004,Customer_5,Retail,Michael Chen
+CUST1005,Customer_6,Energy,Sarah Johnson
+CUST1006,Customer_7,Energy,Sarah Johnson
+CUST1007,Customer_8,Automotive,Olivia Brown
+CUST1008,Customer_9,Hospitality,Daniel Lee
+CUST1009,Customer_10,Agriculture,James Rodriguez
+CUST1010,Customer_11,Energy,Emma Williams
+CUST1011,Customer_12,Telecommunications,Emma Williams
+CUST1012,Customer_13,Hospitality,Emma Williams
+CUST1013,Customer_14,Agriculture,Daniel Lee
+CUST1014,Customer_15,Logistics,Daniel Lee
+CUST1015,Customer_16,Logistics,Priya Patel
+CUST1016,Customer_17,Telecommunications,Michael Chen
+CUST1017,Customer_18,Energy,David Kim
+CUST1018,Customer_19,Real Estate,Sarah Johnson
+CUST1019,Customer_20,Manufacturing,James Rodriguez
+CUST1020,Customer_21,Technology,Daniel Lee
+CUST1021,Customer_22,Energy,Daniel Lee
+CUST1022,Customer_23,Automotive,Emma Williams
+CUST1023,Customer_24,Technology,Daniel Lee
+CUST1024,Customer_25,Media & Entertainment,Sarah Johnson
+CUST1025,Customer_26,Energy,James Rodriguez
+CUST1026,Customer_27,Logistics,Emma Williams
+CUST1027,Customer_28,Real Estate,David Kim
+CUST1028,Customer_29,Retail,Michael Chen
+CUST1029,Customer_30,Automotive,David Kim
+CUST1030,Customer_31,Automotive,David Kim
+CUST1031,Customer_32,Education,David Kim
+CUST1032,Customer_33,Telecommunications,Michael Chen
+CUST1033,Customer_34,Telecommunications,David Kim
+CUST1034,Customer_35,Energy,David Kim
+CUST1035,Customer_36,Education,Emma Williams
+CUST1036,Customer_37,Technology,David Kim
+CUST1037,Customer_38,Media & Entertainment,Michael Chen
+CUST1038,Customer_39,Pharmaceuticals,David Kim
+CUST1039,Customer_40,Technology,Olivia Brown
+CUST1040,Customer_41,Finance,Michael Chen
+CUST1041,Customer_42,Telecommunications,James Rodriguez
+CUST1042,Customer_43,Hospitality,Michael Chen
+CUST1043,Customer_44,Agriculture,James Rodriguez
+CUST1044,Customer_45,Real Estate,Michael Chen
+CUST1045,Customer_46,Manufacturing,Daniel Lee
+CUST1046,Customer_47,Agriculture,Daniel Lee
+CUST1047,Customer_48,Hospitality,Priya Patel
+CUST1048,Customer_49,Energy,David Kim
+CUST1049,Customer_50,Retail,Priya Patel
